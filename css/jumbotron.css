@@ -1,0 +1,13 @@
+h1, h2, h3, h4 {
+    font-family: 'Permanent Marker', cursive;;
+    background-color: lightgoldenrodyellow;
+}
+
+footer {
+    background-color: lightslategray;
+    color: ghostwhite
+}
+
+p {
+    font-family: 'Special Elite', cursive;
+}
